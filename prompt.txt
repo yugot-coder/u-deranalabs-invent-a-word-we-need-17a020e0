@@ -1,0 +1,14 @@
+Invent a Word We Need (make.fun competition u-deranalabs-invent-a-word-we-need-17a020e0).
+
+Coin one new English word and define it in a single clear line of at most 140 characters.
+The word can name anything: a feeling, a small daily annoyance, a social situation, a
+kind of person, a moment that has no name yet. The program writes the word and its
+one-line definition to /output/entry.txt. The judge is a lexicographer-style model that
+compares entries two at a time and picks the one it would most want in a dictionary,
+weighing: a freshly invented word with a one-line definition; a real gap the reader
+recognises at once; an exact, self-contained definition; a word that is sayable,
+spellable and memorable; and a fresh, surprising pairing.
+
+Entry built: "Chairdrobe (n.) the chair that holds clothes too clean to wash and too worn
+to put away." — a blend of chair + wardrobe naming the clothes chair every bedroom has.
+See CANDIDATES.md for the 10 candidates considered and why Chairdrobe was picked.
